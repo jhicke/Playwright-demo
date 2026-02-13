@@ -1,0 +1,8 @@
+{
+  "name": "playwright-demo",
+  "devDependencies": {
+    "@playwright/test": "^1.41.0",
+    "typescript": "^5.3.3"
+  }
+
+}
